@@ -26,6 +26,6 @@ guest3 mit PW: guest3 (kann sich nicht einloggen)
 admin mit PW: admin
 ```
 
-![Registrierung](https://github.com/panda-lambda/hotelsite/blob/main/register.png?raw=true)
-![News](https://raw.githubusercontent.com/panda-lambda/hotelsite/main/news.png?token=GHSAT0AAAAAAB7X3C6ENYQ5YJXP5FSXY666ZAYWZVQ)
-![Admin -User management](https://raw.githubusercontent.com/panda-lambda/hotelsite/main/user_management.png?token=GHSAT0AAAAAAB7X3C6ECWXNK7ECVQTBBW2WZAYW2JQ)
+![Registrierung](https://raw.githubusercontent.com/panda-lambda/Hotelsite-Panda/main/register.png)
+![News](https://raw.githubusercontent.com/panda-lambda/Hotelsite-Panda/main/news.png)
+![Admin -User management](https://raw.githubusercontent.com/panda-lambda/Hotelsite-Panda/main/user_management.png)
