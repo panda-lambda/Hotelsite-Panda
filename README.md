@@ -16,7 +16,7 @@ MySQL->Admin
 dort auf Neu und dann eine Datenbank namens "hotelpanda" anlegen. Nun diese auf der linken Seite anklicken und
 dann auf importieren und die inkludierte "hotelpanda.sql" importieren. 
 
-Diese Datenbank benutzt kein Passwort! Dies sollte auf jeden Fall schnellstmöglich geändert werden. 
+Diese Datenbank benutzt kein Passwort! 
 
 Es gibt folgende Benutzer:
 ```
